@@ -1,1 +1,1 @@
-# template-typescript
+# practice-lerna
